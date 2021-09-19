@@ -3,4 +3,5 @@
 [This is an link to the website zuyd.nl](https://www.zuyd.nl/)
 
 ## My picture
-![profielfoto](
+![profielfoto](my-first-repo/img/profielfoto.png)
+
