@@ -1,8 +1,7 @@
 # my-first-repo
 
-## Website Zuyd Hogeschool
-[This is an link to the website zuyd.nl](https://www.zuyd.nl/)
-
-## My picture
+## Mijn profielfoto
 ![profielfoto](img/profielfoto.jpg)
 
+## Website Zuyd Hogeschool
+Hier volgt een link naar de [website van zuyd.nl](https://www.zuyd.nl/), ga snel kijken!
