@@ -1,3 +1,6 @@
 # my-first-repo
-## This is my first repo
-[Dit is de link naar de website van](https://www.zuyd.nl/)
+## Website Zuyd Hogeschool
+[This is an link to the website zuyd.nl](https://www.zuyd.nl/)
+
+## My picture
+![profielfoto](
